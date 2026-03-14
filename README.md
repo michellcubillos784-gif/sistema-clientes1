@@ -10,3 +10,7 @@ touch inventario.txt
 git add .
 
 git commit -m "Primer commit: estructura inicial del proyecto"
+
+ID | Nombre | Ciudad
+1 | Maria | Bogota
+2 | Carlos | Medellin
