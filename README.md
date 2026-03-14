@@ -19,3 +19,6 @@ Producto | Cantidad
 Laptop | 10
 Mouse | 50
 Teclado | 30
+
+git add .
+git commit -m "Se agrega información de clientes e inventario"
