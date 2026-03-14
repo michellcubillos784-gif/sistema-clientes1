@@ -8,3 +8,5 @@ touch ventas.txt
 touch inventario.txt
 
 git add .
+
+git commit -m "Primer commit: estructura inicial del proyecto"
